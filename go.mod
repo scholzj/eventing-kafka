@@ -29,10 +29,10 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	google.golang.org/protobuf v1.26.0
-	k8s.io/api v0.19.7
-	k8s.io/apimachinery v0.19.7
-	k8s.io/client-go v0.19.7
-	k8s.io/utils v0.0.0-20200729134348-d5654de09c73
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
+	k8s.io/client-go v0.20.0
+	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
 	knative.dev/control-protocol v0.0.0-20210505115553-b8b0ea0dbe6c
 	knative.dev/eventing v0.22.1-0.20210510072759-25f0fcb068f3
 	knative.dev/hack v0.0.0-20210428122153-93ad9129c268
